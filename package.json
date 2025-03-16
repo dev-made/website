@@ -1,0 +1,10 @@
+{
+  "name": "website",
+  "author": "Evgenii Saidgareev <4ellozzzforreg@gmail.com> (https://dev-made.github.io)",
+  "license": "UNLICENSE",
+  "private": false,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dev-made/website.git"
+  }
+}

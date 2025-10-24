@@ -46,7 +46,7 @@
 <br>
 ⏣ TypeORM / MikroORM / Prisma
 <br><br>
-■ SaaS ■
+■ DBaaS ■
 <br>
 ⏣ Firebase / Supabase
 <br>

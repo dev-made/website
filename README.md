@@ -14,7 +14,7 @@
 <br>
 ⏣ Nestjs / Next.js / Nuxt / Adonis.js / Express.js / Koa / uWebsockets.js / hyper-express / nanoexpress
 <br>
-⏣ PHP / Laravel / Yii2 / Phalcon
+⏣ PHP / Laravel / Yii2 / Phalcon / Bitrix (D7)
 <br>
 
 ■ Process Manager ■
